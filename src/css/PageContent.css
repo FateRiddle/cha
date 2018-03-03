@@ -1,0 +1,50 @@
+.HomeAbout-body {
+  position: relative;
+  box-sizing: content-box;
+  padding-right: 7.5%;
+  padding-left: 7.5%;
+  padding-top: 70px;
+  display: flex;
+  flex-direction: column;
+}
+
+.HomeAbout-summary {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: center;
+  align-items: flex-start;
+  min-height: 350px;
+  max-height: 400px;
+  margin-bottom: 230px;
+  font-size: 1.1rem;
+}
+
+.HomeAbout-summary-item {
+  padding: 12px 9px;
+  margin: 0 20px;
+  background: white;
+}
+
+.HomeAbout-summary-item span {
+  writing-mode: vertical-rl;
+}
+
+.HomeAbout-elements {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+
+.HomeAbout-element {
+  writing-mode: vertical-rl;
+  display: flex;
+}
+
+.HomeAbout-element-visual {
+  width: 140px;
+  height: 440px;
+}
+
+.HomeAbout-element-body {
+  height: 225px;
+}

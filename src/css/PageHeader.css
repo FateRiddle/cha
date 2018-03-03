@@ -1,0 +1,22 @@
+.PageHeader-logo {
+  width: 46px;
+  height: 52px;
+  left: 45px;
+  top: 40px;
+  color: #d4b079;
+}
+
+.PageHeader-logo svg {
+  width: 46px;
+  height: 52px;
+}
+
+.PageHeader-btnMenu {
+  top: 40px;
+  right: 45px;
+}
+
+.PageNav {
+  right: 50px;
+  top: 32px;
+}
